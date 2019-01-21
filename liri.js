@@ -16,6 +16,13 @@ var defaultSong = "Numb";
 // 
 // 
 
+// figure out how to get a spotify API in node with out authentication
+// 
+// 
+// 
+// 
+
+
 
 //All functions 
 
